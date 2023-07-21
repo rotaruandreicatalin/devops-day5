@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 another file
 new line
+=======
+noi fisiere
+>>>>>>> master
