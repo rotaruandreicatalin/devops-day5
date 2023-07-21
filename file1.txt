@@ -6,4 +6,8 @@ new line
 new line
 new line
 new line
+<<<<<<< HEAD
+new file line
+=======
 new line
+>>>>>>> master
